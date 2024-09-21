@@ -1,9 +1,0 @@
-C:/Users/User/Documents/test2/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release/CMakeFiles/test2.dir
-C:/Users/User/Documents/test2/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release/CMakeFiles/edit_cache.dir
-C:/Users/User/Documents/test2/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release/CMakeFiles/rebuild_cache.dir
-C:/Users/User/Documents/test2/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release/CMakeFiles/list_install_components.dir
-C:/Users/User/Documents/test2/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release/CMakeFiles/install.dir
-C:/Users/User/Documents/test2/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release/CMakeFiles/install/local.dir
-C:/Users/User/Documents/test2/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release/CMakeFiles/install/strip.dir
-C:/Users/User/Documents/test2/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release/CMakeFiles/test2_autogen_timestamp_deps.dir
-C:/Users/User/Documents/test2/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release/CMakeFiles/test2_autogen.dir
