@@ -1,0 +1,11 @@
+# ninja log v6
+9	1081	7485785177070387	test2_autogen/timestamp	53a53597ae114fa
+9	1081	7485785177070387	test2_autogen/mocs_compilation.cpp	53a53597ae114fa
+9	1081	7485785177070387	C:/Users/User/Documents/test2/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release/test2_autogen/timestamp	53a53597ae114fa
+9	1081	7485785177070387	C:/Users/User/Documents/test2/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release/test2_autogen/mocs_compilation.cpp	53a53597ae114fa
+1108	4082	7485785178631164	CMakeFiles/test2.dir/loginerror.cpp.obj	4ed63c6a2c3441d9
+1095	4208	7485785178512696	CMakeFiles/test2.dir/main.cpp.obj	6738053f1c53b290
+1090	4281	7485785178461922	CMakeFiles/test2.dir/test2_autogen/mocs_compilation.cpp.obj	e7328e3c6acf2b96
+1103	4475	7485785178561230	CMakeFiles/test2.dir/scndwindow.cpp.obj	b1e6074d65b27aec
+1100	4558	7485785178561230	CMakeFiles/test2.dir/mainwindow.cpp.obj	dd5bc6af0d09e0ac
+4558	4732	7485785213145838	test2.exe	e779d7cace3a30af
